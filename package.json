@@ -2,6 +2,9 @@
   "name": "exec-func",
   "version": "0.1.0",
   "description": "execute exported javascript function with module type of es.",
+  "bin": {
+    "exec-func": "index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
