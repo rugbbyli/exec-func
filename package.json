@@ -1,5 +1,6 @@
 {
   "name": "exec-func",
+  "type": "module",
   "version": "0.1.1",
   "description": "execute exported javascript function with module type of es.",
   "bin": {
